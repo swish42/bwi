@@ -1,0 +1,3 @@
+notebook
+sqlite3
+numpy
